@@ -6,4 +6,4 @@ kami beranggotakan :
 - Ahmad Faliansyah [J0404241110] (Red Team)
 - Pandu Akmal Fauzan [J0404241047] (Blue Team)
 - Muhammad Fauzia [J0404241151] (Blue Team)
-___
+<hr style="border: none; border-top: 1px solid #ccc; margin: 10px 0;">
