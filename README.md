@@ -22,5 +22,5 @@ Pada perancangan arsitektur jaringan ini, dirancang sebuah lingkungan laboratori
 
 ### 3. Detail Dokumentasi Arsitektur
 Informasi lengkap mengenai rancangan topologi dan alokasi alamat IP dapat diakses pada direktori proyek berikut:
-* [docs/design/topology.png](docs/design/File%20Topology.png) (Diagram Visual Topologi Jaringan)
-* [docs/design/ip_plan.md](docs/design/ip_plan.md) (Spesifikasi Skema Alokasi IP Address dan Port Service)
+* [topology.png](docs/design/File%20Topology.png) (Diagram Visual Topologi Jaringan)
+* [ip_plan.md](docs/design/ip_plan.md) (Spesifikasi Skema Alokasi IP Address dan Port Service)
